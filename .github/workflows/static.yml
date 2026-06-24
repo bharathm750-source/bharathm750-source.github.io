@@ -1,7 +1,0 @@
-cd path/to/folder/with/index.html
-git init
-git remote add origin https://github.com/bharathm750-source/bharathm750-source.github.io.git
-git add index.html
-git commit -m "Add my personal site"
-git branch -M main
-git push -u origin main
